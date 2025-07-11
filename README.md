@@ -5,11 +5,11 @@ Don't want to replay the game every time there's an update, but still curious to
 
 ## Quick link
 
-[Lex Imperialis update version v1.4.0.200 vs v1.4.1.000](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.0.200..v1.4.1.000?diff=split&w)
+[Lex Imperialis update version v1.4.0.200 vs v1.4.1.000](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.0.200..v1.4.1.000?diff=split&w) (7 days apart, 17 days since DLC launch - June 24th 2025)
 
-[Void Shadows update version v1.2.1.17 vs v1.2.1.26](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.2.1.17..v1.2.1.26?diff=split&w)
+[Void Shadows update version v1.2.1.17 vs v1.2.1.26](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.2.1.17..v1.2.1.26?diff=split&w) (1 month 2 days apart)
 
-## Quick start
+## Do it Yourself - Quick start
 1. Go to [this link](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare)
 2. Pick the game version you want to compare
 <img width="817" height="378" alt="compare 1" src="https://github.com/user-attachments/assets/e8fba409-94a2-4444-a7fc-6f7bd0dfa7dd" />
