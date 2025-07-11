@@ -25,3 +25,5 @@ You need to do this or the difference will not load. Why? The machine spirit dem
 5. Click "Load diff". Additionally, choose "Split" or "Unified" view mode. Pay attention to the URL. Make sure there's still only two dots between versions.
 
 6. Profit.
+
+Alternatively, you can download the files you want to compare and use something like [WinMerge](https://winmerge.org/?lang=en) to compare them on your own local machine.
