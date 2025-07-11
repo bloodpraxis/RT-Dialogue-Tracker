@@ -1,6 +1,8 @@
 # RT-Dialogue-Tracker
-## Changes
-Compared to v1.4.0.200, some dialogues were rewritten and some item descriptions added and/or adjusted.
+## Description
+Update (1.2.1.17)[https://store.steampowered.com/news/app/2186680/view/4687775476024437132] released October 10th, 2024.
+
+These files contains the dialogue of the base game and Void Shadows DLC.
 
 ## Quick link
 
