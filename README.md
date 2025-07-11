@@ -1,7 +1,4 @@
 # RT-Dialogue-Tracker
-## Changes
-Compared to v1.4.0.200, some dialogues were rewritten and some item descriptions added and/or adjusted.
-
 ## Quick link
 
 [Lex Imperialis update version v1.4.0.200 vs v1.4.1.000](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.0.200..v1.4.1.000?diff=split&w)
