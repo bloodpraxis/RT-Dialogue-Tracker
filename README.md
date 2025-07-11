@@ -7,6 +7,8 @@ Don't want to replay the game every time there's an update, but still curious to
 
 [Lex Imperialis update version v1.4.0.200 vs v1.4.1.000](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.0.200..v1.4.1.000?diff=split&w)
 
+[Void Shadows update version v1.2.1.17 vs v1.2.1.26](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.2.1.17..v1.2.1.26?diff=split&w)
+
 ## Quick start
 1. Go to [this link](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare)
 2. Pick the game version you want to compare
