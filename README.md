@@ -1,5 +1,5 @@
 # RT-Dialogue-Tracker
-Archive of Localisation files from W40k: Rogue Trader. For use of comparsion. 
+Archive of Localisation files from W40k: Rogue Trader. For use of comparison. 
 
 Don't want to replay the game every time there's an update, but still curious to see what has changed? Look no further.
 
