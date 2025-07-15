@@ -27,3 +27,13 @@ You need to do this or the difference will not load. Why? The machine spirit dem
 6. Profit.
 
 Alternatively, you can download the files you want to compare and use something like [WinMerge](https://winmerge.org/?lang=en) to compare them on your own local machine.
+
+It is possible that the webpage will not show you the differences due to them being too large (for example comparing earliest with latest version). 
+
+## Dates
+
+All dates as per to Steam events release 
+- Update 1.4.1.000: 10 July 2025
+- Update 1.4.0.200: 4 July 2025
+- Update 1.2.1.26: 12 November 2024
+- Update 1.2.1.17: 10 October 2024
