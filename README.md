@@ -41,7 +41,8 @@ Alternatively, you can download individual files from its branches and use somet
 ## Dates
 
 All dates as per to Steam events release 
-- Update 1.4.1.000: 10 July 2025
+- Update 1.4.1.299: 6 August 2025
+- Update 1.4.1.000: 11 July 2025
 - Update 1.4.0.200: 4 July 2025
 - Update 1.2.1.26: 12 November 2024
 - Update 1.2.1.17: 10 October 2024
