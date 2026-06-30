@@ -5,6 +5,8 @@ Don't want to replay the game every time there's an update, but still curious to
 
 ## Quick link
 
+[The Infinite Museion version v1.6.0.482](https://github.com/bloodpraxis/RT-Dialogue-Tracker/tree/v1.6.0.482)
+
 [Lex Imperialis update version v1.4.1.000 vs v1.4.1.299](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.1.000..v1.4.1.299) (26 days apart)
 
 [Lex Imperialis update version v1.4.0.200 vs v1.4.1.000](https://github.com/bloodpraxis/RT-Dialogue-Tracker/compare/v1.4.0.200..v1.4.1.000?diff=split&w) (7 days apart, 17 days since DLC launch - June 24th 2025)
